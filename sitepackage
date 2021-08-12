@@ -1,0 +1,2 @@
+tsing镜像文法找到，可以到https://pypi.org/project/查找第三方库，然后下载，完成后解压
+解压后使用cmd命令行到运行 python setup.py install后安装完成
